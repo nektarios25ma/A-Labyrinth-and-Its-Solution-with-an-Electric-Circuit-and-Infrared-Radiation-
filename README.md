@@ -1,4 +1,4 @@
-# A-Labyrinth-and-Its-Solution-with-an-Electric-Circuit-and-Infrared-Radiation-
+# ADDITIONAL SUPPORT PROJECT TO  A-Labyrinth-and-Its-Solution-with-an-Electric-Circuit-and-Infrared-Radiation-
 A Labyrinth and Its Solution (with an Electric Circuit and Infrared Radiation)
 
 Τίτλος έργου: Ένας Λαβύρινθος και η Λύση του (με Ηλεκτρικό Κύκλωμα και Υπέρυθρη Ακτινοβολία)
