@@ -8,7 +8,7 @@ I'm doing a demonstration by putting the same part of the explanation of the wor
 
 LINK TO VIDEO : https://drive.google.com/file/d/1HU60ucDR8RMLiO8jaGC3hSgyO7G_LPDw/view?usp=sharing
 
-MATERIALS:
+MATERIALS FOR FUN - ADDITIONAL PROJECT:
 
 ARDUINO NANO EVERY
 
