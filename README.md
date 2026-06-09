@@ -1,34 +1,28 @@
 # A-Labyrinth-and-Its-Solution-with-an-Electric-Circuit-and-Infrared-Radiation-
 A Labyrinth and Its Solution (with an Electric Circuit and Infrared Radiation)
 
-Τίτλος έργου: Ένας Λαβύρινθος και η Λύση του (με Ηλεκτρικό Κύκλωμα και Υπέρυθρη Ακτινοβολία)
+Project Title: A Maze and its Solution (with an Electric Circuit and Infrared Radiation)
 
-Ενα έργο που οπτικοποιεί τις ιδιότητες του ηλεκτρικού ρεύματος , διασκεδάζει και μαθαίνει τα παιδιά.
+A project that visualizes the properties of electric current, entertains and educates children.
 
-Θα μπορούσε μια κάμερα υπερύθρων να βρει τη λύση όταν οι διαδρομές του λαβυρίνθου είναι κατασκευασμένες από αγώγιμο σύρμα; 
-Θα μπορούσε το ηλεκτρικό ρεύμα να «πηδήξει» σε ένα σπασμένο κύκλωμα - ή να ανιχνευθεί στην άλλη πλευρά του λαβυρίνθου;
-Αυτά και άλλα ερωτήματα εξερευνώνται παιχνιδιάρικα με την κατασκευή μας.
-Παρουσιάζουμε μια συσκευή χαμηλού κόστους για τη διδασκαλία βασικών εννοιών στον Ηλεκτρομαγνητισμό και την Ανάλυση Κυκλωμάτων, σχεδιασμένη ως μικροσκοπικός λαβύρινθος (23×23 cm).
-Η διαδρομή θα είναι κατασκευασμένη από σύρμα νικελίου (NiCr) με συνολική αντίσταση ~22 Ω. Με τροφοδοσία 20 V DC, η ισχύς Joule P=V²/R≈18 W αναπτύσσεται κατά μήκος του σύρματος, παράγωντας μια μετρήσιμη αύξηση της θερμοκρασίας.
-Η «σωστή» διαδρομή γίνεται ορατή σε πραγματικό χρόνο μέσω μιας υπέρυθρης κάμερας/θερμικής απεικόνισης ή/και ενός αισθητήρα υπερύθρων, παρέχοντας ένα ζωντανό οπτικό ανάλογο της ροής ρεύματος.
-Ενσωματώνοντας μικροσκοπικά βολτόμετρα πάνελ σε επιλεγμένα τμήματα, οι μαθητές εξερευνούν πειραματικά τον κανόνα του βρόχου του Kirchhoff συγκρίνοντας το αλγεβρικό άθροισμα των αυξήσεων και των πτώσεων τάσης γύρω από κλειστούς βρόχους. 
-Η δραστηριότητα ακολουθεί μια προσέγγιση βασισμένη στην έρευνα, παραθέτει σαφείς μαθησιακούς στόχους (Ohm, Joule, συντονισμός LC, αμοιβαία επαγωγή), περιλαμβάνει ένα σχέδιο ασφάλειας, έναν προϋπολογισμό υλικών κάτω των 80 € και κλίμακες διδακτικής αξίας από κατώτερη έως ανώτερη δευτεροβάθμια εκπαίδευση. Προτείνονται φύλλα εργασίας και διαμορφωτική αξιολόγηση. Η κατασκευή είναι αναπαράξιμη από κοινά μέρη και ταιριάζει με την θεματολογία των STEM .
+Could an infrared camera find the solution when the maze paths are made of conductive wire? Could electric current “jump” into a broken circuit - or be detected on the other side of the maze? These and other questions are playfully explored with our construction. We present a low-cost device for teaching basic concepts in Electromagnetism and Circuit Analysis, designed as a miniature maze (23×23 cm). The path will be made of nickel (NiCr) wire with a total resistance of ~22 Ω. With a 20 V DC supply, Joule power P=V²/R≈18 W is developed along the wire, producing a measurable temperature increase. The “correct” path is visualized in real time via an infrared camera/thermal imager and/or an infrared sensor, providing a live visual analogue of current flow. By incorporating miniature panel voltmeters into selected sections, students experimentally explore Kirchhoff’s loop rule by comparing the algebraic sum of voltage increases and drops around closed loops. The activity follows an inquiry-based approach, lists clear learning objectives (Ohm, Joule, LC resonance, mutual inductance), includes a safety plan, a materials budget of under €80, and teaching value scales from lower to upper secondary education. Worksheets and formative assessment are suggested. The construction is reproducible from common parts and fits into the STEM theme.
 
-ΒΙΝΤΕΟ ΕΞΗΓΗΣΗΣ : https://drive.google.com/file/d/1ATEh41-nR6oQ1FFbkLTpuzxIQqOrLd2V/view?usp=sharing
+VIDEO EXPLANATION : https://drive.google.com/file/d/1ATEh41-nR6oQ1FFbkLTpuzxIQqOrLd2V/view?usp=sharing
 
-Λίστα υλικών :
+Materials List :
 
-1)Stereo Digital Audio Amplifier Module 2X50W – TPA3116 = €16,80
+Stereo Digital Audio Amplifier Module 2X50W – TPA3116 
 
-2)Καλώδιο Ήχου Jack σε Jack 3.5mm 1.5m  =€1,40 
+Audio Cable Jack to Jack 3.5mm 1.5m 
 
-3) 3 X   eSUN PLA Basic 1.75mm 1kg – Blue = 3X €15,90
+ eSUN PLA Basic 1.75mm 1kg – Blue 
 
-4) ΚΑΛΩΔΙΑ ΚΤΛ =15 €
+CABLES KIT 
 
-5)esp32 mcu = 10 €
+esp32 mcu 
 
-ΣΥΝΟΛΟ = 90 €
+
+
 
 
 
