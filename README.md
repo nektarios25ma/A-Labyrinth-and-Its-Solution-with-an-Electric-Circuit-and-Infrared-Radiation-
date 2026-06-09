@@ -6,9 +6,12 @@ This is an additional - supporting work of the main project that aims to explain
 
 I'm doing a demonstration by putting the same part of the explanation of the work (5 parts of explanation in total) in different languages.
 
-MATERIALS
+MATERIALS:
+
 ARDUINO NANO EVERY
+
 ARDUINO NANO SHIELD
+
 BUTTONS FROM GRAVITY
 
 
